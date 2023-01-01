@@ -12,3 +12,11 @@
 ## Phase 3 [17 - 24 hours]
     - Sleep 
     
+
+
+# Optimized learning
+    - 85% correct
+    - 15% error
+
+# Reward randomly
+    - Not so much about the frequency
